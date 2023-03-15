@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "json-server": "^0.17.2"
-  }
+  },
+  "name": "json-mock-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankeshkewat/JSON-Mock-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankeshkewat/JSON-Mock-Server/issues"
+  },
+  "homepage": "https://github.com/Ankeshkewat/JSON-Mock-Server#readme",
+  "description": ""
 }
