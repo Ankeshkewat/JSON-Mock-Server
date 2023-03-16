@@ -18,6 +18,13 @@
       "postId": 1
     }
   ],
+  "users":[
+   {
+    "name":"Ankesh",
+    "email":"a@gmail.com",
+    "password":"abc"
+   }
+  ],
   "profile": {
     "name": "typicode"
   }
